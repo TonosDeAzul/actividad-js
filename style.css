@@ -39,7 +39,8 @@
 }
 
 .exercise {
-  max-width: 240px;
+  width: 100%;
+  width: 240px;
   background-color: #fffde7;
   padding: 25px 70px;
   text-align: center;
